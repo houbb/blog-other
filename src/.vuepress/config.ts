@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 export default defineUserConfig({
-  base: "/blog-backend/",
+  base: "/blog-other/",
 
   bundler: viteBundler({
     viteOptions: {

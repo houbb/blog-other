@@ -4,7 +4,7 @@
 
 # 在线
 
-[https://houbb.github.io/blog-backend/](https://houbb.github.io/blog-backend/)
+[https://houbb.github.io/blog-other/](https://houbb.github.io/blog-other/)
 
 # 本地
 
@@ -15,7 +15,7 @@ npm run docs:clean-dev
 
 # 相关
 
-[个人技术笔记](https://github/houbb/blog-backend)
+[个人技术笔记](https://github/houbb/blog-other)
 
 [个人思考(不止技术) lmxxf-thinking](https://github/houbb/lmxxf-thinking)
 
