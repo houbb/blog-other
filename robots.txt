@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://houbb.github.io/blog-backend/sitemap.xml
+Sitemap: https://houbb.github.io/blog-other/sitemap.xml
